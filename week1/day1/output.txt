@@ -1,1 +1,16 @@
+Q1: SELECT * FROM Employee;
+1 John Doe 28 50000 1 2020-01-15
+2 Jane Smith 34 60000 2 2019-07-23
+3 Bob Brown 45 80000 1 2018-02-12
+4 Alice Blue 25 45000 3 2021-03-22
+5 Charlie P. 29 50000 2 2019-12-01
 
+Q3: Employees older than 30
+Jane Smith
+Bob Brown
+
+Q16: Total Salary
+285000
+
+Q17: Average Salary
+57000
